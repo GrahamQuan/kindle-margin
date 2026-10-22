@@ -1,0 +1,6 @@
+interface:
+  display_name: 'Patch Spec'
+  short_description: 'Apply focused follow-up fixes after run-spec'
+  default_prompt: 'Use $patch-spec to apply this bounded follow-up change without reopening the full spec workflow.'
+policy:
+  allow_implicit_invocation: true

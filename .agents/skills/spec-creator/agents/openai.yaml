@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Spec Creator'
+  short_description: 'Create repository-grounded product and tech specs'
+  default_prompt: 'Use $spec-creator to investigate this repository and create a grounded feature specification.'

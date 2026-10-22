@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "example-en-zh",
+  "version": "1.0.0",
+  "name": "Example English-Chinese Dictionary",
+  "sourceLanguage": "en",
+  "targetLanguage": "zh-Hans",
+  "license": "CC0-1.0; synthetic example authored for this project",
+  "entries": [{"id": "run-verb-1", "headword": "run", "definition": "跑；运行", "partOfSpeech": "verb", "example": "I run every morning.", "forms": ["runs", "ran", "running"]}]
+}

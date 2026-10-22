@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Run Spec'
+  short_description: 'Implement and verify a repository specification'
+  default_prompt: 'Use $run-spec to implement and verify the selected repository specification.'
